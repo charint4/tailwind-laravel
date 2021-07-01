@@ -57,13 +57,13 @@
                 </div>
             </div>
         </nav>
-        <section class="grid content-center h-screen grid-flow-col grid-cols-2 px-20 text-center text-black bg-yellow-200" id="section1">
+        <section class="grid content-center h-screen grid-flow-col grid-cols-2 px-20 text-black bg-yellow-200" id="section1">
             <div class="flex flex-col col-span-2 text-left text-yellow-600">
                 <div class="w-3/5 font-extrabold text-8xl">
                     Best Selling Egg Cuisine in Indonesia
                 </div>
-                <div class="w-3/5 py-5 text-xl">
-                    Cooked by professional chef like known chefs.
+                <div class="w-2/5 py-5 text-xl text-justify">
+                    Our food are cooked by the greatest of all time (GOAT) chefs. We deliver our food with high technology so our customers satisfied with our services.
                 </div>
             </div>
             <div class="flex-2">
@@ -74,12 +74,12 @@
             <div class="flex-2">
                 <img src="{{asset('images/image2.svg')}}" alt="">
             </div>
-            <div class="flex flex-col text-left text-yellow-600">
+            <div class="flex flex-col text-justify text-yellow-600">
                 <div class="w-4/5 font-extrabold text-8xl">
                     Eggcelent Make Excellent Dish
                 </div>
                 <div class="w-3/5 py-5 text-xl">
-                    We served the best of the best egg dish in the country. 
+                    We served the best of the best egg dish in the country with the best dish cooked with fresh and cared ingridients. 
                 </div>
             </div>
         </section>
